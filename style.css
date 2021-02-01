@@ -1,0 +1,28 @@
+body{
+background-color: rgba(8, 8, 8, 0.767);
+}
+
+form{
+    border: 5px rgba(124, 31, 31, 0.568)  ;
+    background-color: rgba(190, 56, 56, 0.568);
+    width: 300px;
+    height: 170px;
+    margin:50px;
+    padding: 20px;
+}
+input{
+    width: 100px;
+    margin-left: 50px;
+    background-color:rgb(216, 195, 168);
+
+}
+table {
+    border: solid 5PX ;
+    background: cornsilk;
+    border-collapse: collapse;
+
+}
+td ,th{
+    border: solid 3PX;
+    padding: 9px;
+}
